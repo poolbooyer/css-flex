@@ -1,4 +1,10 @@
 .object{
-    padding: 2rem;
+    padding: 0.2rem 3rem;
     border: 0.5rem solid black;
+}
+#obj_2{
+    border: 0.5rem solid lightblue;
+}
+#obj_3{
+    border: 0.5rem solid lightcoral;
 }
